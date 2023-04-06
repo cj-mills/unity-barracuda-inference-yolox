@@ -1,0 +1,16 @@
+{
+    "packages": [
+        {
+            "packageName": "com.cj-mills.barracuda-inference-toolkit",
+            "packageUrl": "https://github.com/cj-mills/unity-barracuda-inference-toolkit.git"
+        },
+        {
+            "packageName": "com.cj-mills.bounding-box-2d-toolkit",
+            "packageUrl": "https://github.com/cj-mills/bounding-box-2d-toolkit.git"
+        },
+        {
+            "packageName": "com.cj-mills.yolox-utils",
+            "packageUrl": "https://github.com/cj-mills/unity-yolox-utils.git"
+        }
+    ]
+}
