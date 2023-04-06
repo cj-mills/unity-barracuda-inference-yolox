@@ -1,0 +1,28 @@
+{
+    "name": "com.cj-mills.barracuda-inference-yolox",
+    "displayName": "Barracuda Inference YOLOX",
+    "version": "1.0.0",
+    "unity": "2020.3",
+    "description": "This package extends the functionality of the barracuda-inference-toolkit package to perform object detection using YOLOX models.",
+    "keywords": [
+        "unity",
+        "barracuda",
+        "inference",
+        "yolox",
+        "object-detection",
+        "deep-learning"
+    ],
+    "author": {
+        "name": "Christian Mills",
+        "email": "christian@christianjmills.com",
+        "url": "https://christianjmills.com/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cj-mills/unity-barracuda-inference-yolox.git"
+    },
+    "dependencies": {
+        "com.unity.barracuda": "3.0.0"
+    },
+    "license": "MIT"
+}
