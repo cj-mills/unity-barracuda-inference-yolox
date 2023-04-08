@@ -24,6 +24,13 @@ namespace CJM.BarracudaInferenceToolkit.YOLOX
         [SerializeField, Tooltip("JSON file with bounding box colormaps")]
         private TextAsset colormapFile;
 
+        [Header("Settings")]
+        [Tooltip("Interval (in frames) for unloading unused assets with Pixel Shader backend")]
+        [SerializeField] private int pixelShaderUnloadInterval = 100;
+
+
+        private int frameCounter = 0;
+
         // Indicates if the system supports asynchronous GPU readback
         private bool supportsAsyncGPUReadback = false;
 
@@ -242,7 +249,12 @@ namespace CJM.BarracudaInferenceToolkit.YOLOX
             {
                 if (workerType == WorkerFactory.Type.PixelShader)
                 {
-                    Resources.UnloadUnusedAssets();
+                    frameCounter++;
+                    if (frameCounter % pixelShaderUnloadInterval == 0)
+                    {
+                        Resources.UnloadUnusedAssets();
+                        frameCounter = 0;
+                    }
                 }
                 return output.data.Download(output.shape);
             }
