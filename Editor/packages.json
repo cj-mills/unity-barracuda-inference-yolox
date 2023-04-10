@@ -1,8 +1,8 @@
 {
     "packages": [
         {
-            "packageName": "com.cj-mills.barracuda-inference-toolkit",
-            "packageUrl": "https://github.com/cj-mills/unity-barracuda-inference-toolkit.git"
+            "packageName": "com.cj-mills.barracuda-inference-base",
+            "packageUrl": "https://github.com/cj-mills/unity-barracuda-inference-base.git"
         },
         {
             "packageName": "com.cj-mills.bounding-box-2d-toolkit",
