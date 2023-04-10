@@ -1,0 +1,19 @@
+{
+    "name": "CJM.BarracudaInference.YOLOX",
+    "references": [
+        "Unity.Barracuda",
+        "CJM.BarracudaInference",
+        "CJM.YOLOXUtils",
+        "CJM.BBox2DToolkit"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
