@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace CJM.BarracudaInferenceToolkit.YOLOX
+namespace CJM.BarracudaModelRunner.YOLOX
 {
     [System.Serializable]
     public class PackageData
