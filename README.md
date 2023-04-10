@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/9126128/230750644-6f234dfc-27dc-40e2-a
 
 ### Installation
 
-You can install the Barracuda-Inference-Toolkit package using the Unity Package Manager:
+You can install the Barracuda Inference YOLOX package using the Unity Package Manager:
 
 1. Open your Unity project.
 2. Go to Window > Package Manager.
