@@ -1,7 +1,7 @@
 // using UnityEditor;
 // using UnityEngine;
 
-// namespace CJM.BarracudaInferenceToolkit.YOLOX
+// namespace CJM.BarracudaInference.YOLOX
 // {
 //     public class DependencyDefineSymbolAdder
 //     {
