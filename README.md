@@ -5,7 +5,10 @@ This Unity package extends the functionality of the `barracuda-inference-base` p
 ## Demo Project
 https://user-images.githubusercontent.com/9126128/230750644-6f234dfc-27dc-40e2-a354-286b1e38dcf6.mp4
 
-* **GitHub Repository:** [barracuda-inference-yolox-demo](https://github.com/cj-mills/barracuda-inference-yolox-demo)
+| GitHub Repository | [barracuda-inference-yolox-demo](https://github.com/cj-mills/barracuda-inference-yolox-demo) |
+| ----------------- | ------------------------------------------------------------ |
+
+
 
 
 
