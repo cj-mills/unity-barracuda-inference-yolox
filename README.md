@@ -40,3 +40,9 @@ For Unity versions older than 2021.1, add the Git URL to the `manifest.json` fil
   }
 }
 ```
+
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](Documentation~/LICENSE) file for details.
