@@ -1,5 +1,5 @@
 # Unity Barracuda Inference YOLOX
-This Unity package extends the functionality of the `barracuda-inference-base` package to perform object detection using YOLOX models. The package contains the `YOLOXObjectDetector` class, which handles model execution, processes the output, and generates bounding boxes with corresponding labels and colors. It supports various worker types and Asynchronous GPU Readback for model output.
+This Unity package extends the functionality of the [`barracuda-inference-base`](https://github.com/cj-mills/unity-barracuda-inference-base) package to perform object detection using YOLOX models. The package contains the `YOLOXObjectDetector` class, which handles model execution, processes the output, and generates bounding boxes with corresponding labels and colors. It supports various worker types and Asynchronous GPU Readback for model output.
 
 
 
