@@ -28,7 +28,7 @@ namespace CJM.BarracudaInference.YOLOX
         [Tooltip("Interval (in frames) for unloading unused assets with Pixel Shader backend")]
         [SerializeField] private int pixelShaderUnloadInterval = 100;
 
-
+        // A counter for the number of frames processed.
         private int frameCounter = 0;
 
         // Indicates if the system supports asynchronous GPU readback
