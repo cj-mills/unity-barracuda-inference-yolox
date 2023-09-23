@@ -7,9 +7,12 @@ This Unity package extends the functionality of the [`barracuda-inference-base`]
 
 https://user-images.githubusercontent.com/9126128/230750644-6f234dfc-27dc-40e2-a354-286b1e38dcf6.mp4
 
-## Demo Project
+## Demo Projects
 
-* **GitHub Repository:** [barracuda-inference-yolox-demo](https://github.com/cj-mills/barracuda-inference-yolox-demo)
+* [barracuda-inference-yolox-demo](https://github.com/cj-mills/barracuda-inference-yolox-demo): A simple Unity project demonstrating how to perform object detection with the barracuda-inference-yolox package using a webcam.
+* [barracuda-inference-yolox-demo-brp](https://github.com/cj-mills/barracuda-inference-yolox-demo-brp): A simple Unity BRP (Built-in Render Pipeline) project demonstrating how  to perform object detection with the barracuda-inference-yolox package  using the in-game camera.
+* [barracuda-inference-yolox-demo-urp](https://github.com/cj-mills/barracuda-inference-yolox-demo-urp): A simple Unity URP project demonstrating how to perform object detection with the barracuda-inference-yolox package using the in-game camera.
+* [barracuda-inference-yolox-demo-hdrp](https://github.com/cj-mills/barracuda-inference-yolox-demo-hdrp): A simple Unity HDRP project demonstrating how to perform object  detection with the barracuda-inference-yolox package using the in-game  camera.
 
 ## Code Walkthrough
 * [Code Walkthrough: Unity Barracuda Inference YOLOX Package](https://christianjmills.com/posts/unity-barracuda-inference-yolox-walkthrough/)
