@@ -53,7 +53,11 @@ For Unity versions older than 2021.1, add the Git URL to the `manifest.json` fil
 }
 ```
 
+## Train a Custom Model
 
+If you're interested in training a YOLOX model on a custom dataset, check out my tutorial tutorial linked below:
+
+- **[Training YOLOX Models for Real-Time Object Detection in Pytorch](https://christianjmills.com/series/tutorials/pytorch-train-object-detector-yolox-series.html)**
 
 ## License
 
